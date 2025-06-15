@@ -106,3 +106,4 @@ export LD_LIBRARY_PATH=/data/local/tmp
 
 - [Introduction to ggml](https://huggingface.co/blog/introduction-to-ggml)
 - [The GGUF file format](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md)
+- [GGML Architecture Documentation](https://github.com/ggerganov/ggml/blob/master/docs/architecture.md)
